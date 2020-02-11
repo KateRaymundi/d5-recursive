@@ -1,4 +1,3 @@
-const assert = require("chai").assert
 
 function sumItems(array) {
   const sumItems = function (arr){
